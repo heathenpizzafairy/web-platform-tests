@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "WOFF Test CFF Fallback";
+    src: local("WOFF Test CFF Fallback"), url("FontsToInstall/SFNT-CFF-Fallback.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "WOFF Test CFF Reference";
+    src: local("WOFF Test CFF Reference"), url("FontsToInstall/SFNT-CFF-Reference.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "WOFF Test TTF Fallback";
+    src: local("WOFF Test TTF Fallback"), url("FontsToInstall/SFNT-TTF-Fallback.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "WOFF Test TTF Reference";
+    src: local("WOFF Test TTF Reference"), url("FontsToInstall/SFNT-TTF-Reference.ttf") format("truetype");
+}
